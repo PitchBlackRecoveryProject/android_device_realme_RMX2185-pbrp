@@ -1,4 +1,4 @@
-Realme C11/C12/C15 : Recovery Tree
+Realme C11/C12/C15 : PBRP Recovery Tree
 ================================================================
 
 ### Realme C11/C12/C15 are same devices with just RAM & ROM being difference between them, with model number RMX2185 ###
