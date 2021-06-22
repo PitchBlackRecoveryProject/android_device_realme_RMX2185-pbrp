@@ -133,5 +133,6 @@ TW_OZIP_DECRYPT_KEY := "0000"
 TW_INCLUDE_LOGICAL := oppo_product oppo_engineering common_preload
 
 # PBRP specific build flags
-PB_TORCH_PATH := "/sys/class/flashlight"
+PB_TORCH_PATH := /proc/qcom_flash
+PB_TORCH_MAX_BRIGHTNESS := 1
 PB_DISABLE_DEFAULT_TREBLE_COMP := true
